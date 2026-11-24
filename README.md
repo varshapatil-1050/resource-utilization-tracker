@@ -41,11 +41,4 @@ Excel, Power Query, Pivot Tables, Power BI (DAX)
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](dashboard.png)
 
-### Weekly conflicts matrix (red = over 100%)
-![Conflicts matrix](conflicts-matrix.png)
-
-### 4-week forecast (Excel)
-![Forecast](forecast.png)
